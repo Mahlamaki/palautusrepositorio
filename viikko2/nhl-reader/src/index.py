@@ -12,7 +12,9 @@ def main():
             player = Player(player_dict)
             players.append(player)
 
-    print("Players from FIN:")
+    players.sort(key=Player.players_points, reverse=True)
+
+    print("Players from FIN:\n")
 
     for player in players:
         print(player)
