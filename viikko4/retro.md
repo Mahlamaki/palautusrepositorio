@@ -1,5 +1,6 @@
 #Tiivistelmä kahdesta retrospektiivin muodosta
 
+
 ##Glad, Sad, Mad
 
 Jäsenet kirjoittavat tiivistetysti ylös viime sprintissä nousseita huomioita ja ajatuksia pienille lapuille.
