@@ -12,6 +12,5 @@ Sitten näistä keskustellaan aina kategoria kerrallaan, ja tehdään toimintasu
 
 Retrospektiivissä piirretään suurehko ympyrä, joka jaetaan viiteen piirakanpalaan.
 Palat edustavat asioita, joista jäsenet ajattelevat että olisi hyötyä aloittaa, hyötyä lopettaa, hyötyä jatkaa
-hyötyä tehdä enemmän jatkossa tai vähemmän jatkossa.
-
+hyötyä tehdä enemmän jatkossa tai vähemmän jatkossa. 
  
